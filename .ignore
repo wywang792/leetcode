@@ -1,0 +1,19 @@
+# add ignore
+.idea
+*.iml
+
+# compiled class files
+*.class
+
+# log files
+*.log
+
+# package files
+*.jar
+*.war
+*.ner
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
